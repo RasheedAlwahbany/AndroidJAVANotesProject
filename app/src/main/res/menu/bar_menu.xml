@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+<item android:id="@+id/Add" android:title="Add" android:contentDescription="Add"/>
+    <item android:id="@+id/notifyme" android:title="Notify me" android:contentDescription="Notify me" android:checkable="true" />
+<item android:id="@+id/aboutus" android:title="About Us" android:contentDescription="About Us"/>
+</menu>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+<item android:id="@+id/Save_Notes" android:title="Save" app:showAsAction="always" android:contentDescription="Save"/>
+    <item android:id="@+id/Cancel_Noptes" android:title="Cancel" app:showAsAction="always" android:contentDescription="Cancel"/>
+</menu>
